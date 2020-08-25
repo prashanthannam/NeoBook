@@ -1,5 +1,7 @@
 # vuetify_project
 
+A social media WebApp built using Vue.js and flutter for database. Users can post content, share posts, chat, comment, like etc.
+
 ## Project setup
 ```
 npm install
@@ -15,12 +17,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a href="https://neobook.herokuapp.com">WebApp Link</a>
 
 <img src="NeoBookVid.gif" width="900">
