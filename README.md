@@ -17,6 +17,6 @@ npm run serve
 npm run build
 ```
 
-<a href="https://neobook.herokuapp.com">WebApp Link</a>
+<a href="https://neobook.herokuapp.com">Link for this WebApp</a>
 
 <img src="NeoBookVid.gif" width="900">
