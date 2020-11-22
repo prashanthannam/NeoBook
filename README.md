@@ -1,6 +1,6 @@
 # vuetify_project
 
-A social media WebApp built using Vue.js and firebase for database. Users can post content, share posts, chat, comment, like etc.
+A social media WebApp built using Vue.js for frontend and firebase for backend database. Users can post content, share posts, chat, comment, like etc.
 
 ## Project setup
 ```
